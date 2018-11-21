@@ -210,5 +210,5 @@ client.on('message', msg => {
     msg.reply('**Welcome To Galaxy Server :coffee: :dizzy: ,**');
   }
 });
-//MHSTR END NOW THIS IS END
+
 client.login(process.env.BOT_TOKEN);
